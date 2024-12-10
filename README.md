@@ -1,7 +1,7 @@
 # UMass-Campus-Navigator
 
 **Objective**
-A web application that provides students with real-time navigation through the UMass Amherst campus, details on upcoming events, and comprehensive information about its buildings. Our website is a prototype that includes the floor-wise information about rooms in the buildings in UMASS Amherst. Each building also has a calendar feature for rooms where events/classes take place. 
+A web application that provides students with real-time navigation through the UMass Amherst campus, details on upcoming events, and comprehensive information about its buildings. 
 
 **Features**
 - User Authentication and Authorization: Students and faculty can login using their university email ID
