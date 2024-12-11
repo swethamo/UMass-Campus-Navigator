@@ -1,6 +1,7 @@
 # UMass-Campus-Navigator
 
 **Objective**
+
 A web application that provides students with real-time navigation through the UMass Amherst campus, details on upcoming events, and comprehensive information about its buildings. 
 
 **Features**
