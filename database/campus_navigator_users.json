@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "673643a635658ff0f6b64909"
+  },
+  "id": "109158711410246342668",
+  "name": "Attila Palabiyik",
+  "email": "apalabiyik@umass.edu",
+  "savedBuildings": [
+    "672d292ed0e3362adbb63363",
+    "673fc869348c672f91ac1f1b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f63e7ad55f32cd4e5335f"
+  },
+  "id": "113262786761786520792",
+  "name": "Swetha Mohan",
+  "email": "swethamohan@umass.edu",
+  "savedBuildings": [
+    "674f5b6e6f7b23910bdf4362"
+  ]
+}]

@@ -1,0 +1,32 @@
+.home-content {
+  height: calc(100dvh - 72px);
+  display: flex;
+  flex-direction: column;
+}
+
+.buildings-content {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 1;
+
+  justify-content: center;
+}
+
+.building-card {
+  height: 280px !important;
+
+  margin: 8px;
+}
+
+.building-card-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buildings-paginator {
+  display: flex;
+  justify-content: center;
+  margin: 12px 0px;
+}

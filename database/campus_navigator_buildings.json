@@ -1,0 +1,4225 @@
+[
+  {
+    "id": "673fc869348c672f91ac1f1b",
+    "name": "Integrative Learning Center",
+    "address": "650 North Pleasant Street, Amherst, MA 01003-1100",
+    "location": {
+      "lat": 42.3909,
+      "lng": -72.5257
+    },
+    "img": "https://www.umass.edu/cp/sites/default/files/styles/inner-page-header-v2/public/Integrative%20Learning%20Center%20%28ILC%29_19_0.jpg?itok=RETKlLsf",
+    "floors": [
+      {
+        "name": "First Floor",
+        "rooms": [
+          {
+            "name": "S110",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S110A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S110C",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S120",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S120A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S120D",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S131",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S131A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S131B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S140",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S140A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S144",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S199T",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S199N",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N101",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N101A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N101B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N111",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N111A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N121",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N199D",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N121",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N199E",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N155B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N155A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N155",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S197",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S193",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S195",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S191",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S189",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S187",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S199E",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S112",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S199Q",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S199P",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S199U",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S199V",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199C",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N140",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N145A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199G",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199J",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199K",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N199M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S199D",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S142",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N131",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N145",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S133",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S109B",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S109",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S109A",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S103",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S105",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S199G",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S142",
+            "events": [],
+            "attributes": ["utility"]
+          }
+        ],
+        "attributes": ["utility", "classroom", "common", "restroom"]
+      },
+      {
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "name": "S220",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S220A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S211A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S211",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S217",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S211B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S231",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S231A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S240",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S240A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S299R",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N211",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N251",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N255",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N255A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S290",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S291",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S293",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S292",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S299A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299D",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S210",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299E",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299F",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299K",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299H",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299Q",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299P",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299U",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S299V",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N299A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N299B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N299H",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N299K",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N299M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N259",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S281",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S283",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S299W",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S282",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S280",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S278",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S275",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S299Z",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S271",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S241",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S261",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S240B",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S219",
+            "events": [],
+            "attributes": ["utility"]
+          }
+        ],
+        "attributes": ["utility", "classroom", "common", "restroom"]
+      },
+      {
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "name": "S311",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S311A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S310",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S310A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S310B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S310D",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S312C",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S308C",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S312",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S331",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S331A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S331B",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S350",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N301",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N317",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N321",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N371",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N331",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N331A",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N357",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N345",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N347",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N351",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S314",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S316",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S318",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S320",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S324",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S326",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S328",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S330",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N308",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N310",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N312",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N314",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N316",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N318",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N320",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N322",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N324",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N326",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N328",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N332",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N334",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N336",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N338",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N340",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N327",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N325",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N369",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N355",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N352",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N354",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N356",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N358",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N362",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N364",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N366",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N368",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N370",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N372",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N374",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S390",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S392",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S391",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S393",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "N346",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N399F",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N360",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N399M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N399B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N303",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N399U",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399Q",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399P",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399T",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S322",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S312A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399H",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399J",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399E",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S399D",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S315",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S317",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S321",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S335",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S361",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N309",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N311",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S396",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S394",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S395",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S397",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N373",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N367",
+            "events": [],
+            "attributes": ["utility"]
+          }
+        ],
+        "attributes": ["office", "classroom", "common", "restroom", "utility"]
+      },
+      {
+        "name": "Fourth Floor",
+        "rooms": [
+          {
+            "name": "N443",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N445",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N447",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N449",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S413",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S407",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S405",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S450",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S408",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "S404",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "N440",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N438",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N436",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N434",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N430",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N428",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N426",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N444",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421C",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421D",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421E",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N452",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N454",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N464",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N466",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N470",
+            "events": [
+              {
+                "title": "Ling 205",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              }
+            ],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N472",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N422",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N420",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N418",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N416",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N414",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N412",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N410",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N408",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421K",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421J",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421H",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421G",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N421F",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N404",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N402",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N407",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N405",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "N403",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S417",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S419",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S421",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S473",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S471",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S469",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S467",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S465",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S463",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S461",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S459",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S457",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S455",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S453",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S451",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S447",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S445",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S443",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S441",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S439",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S437",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S435",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S433",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S431",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S429",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S427",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S425",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "S494",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S492",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S493",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S491",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "S497",
+            "events": [],
+            "attributes": ["restroom"]
+          },
+          {
+            "name": "N400",
+            "events": [
+              {
+                "title": "Ling 510",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "Ling 510 Syntax Workshop",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:30:00"
+              },
+              {
+                "title": "Ling 510 Salt Meeting",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "17:45:00",
+                "endTime": "19:15:00"
+              },
+              {
+                "title": "Psycholinguistics Workshop",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:00:00"
+              }
+            ],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N442",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N446",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N448",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N448A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N451",
+            "events": [
+              {
+                "title": "Faculty Meeting",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "Ling 390B",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "Ling 609",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "Ling 603",
+                "start": "2024-09-09T14:30:00",
+                "end": "2024-09-09T15:45:00"
+              },
+              {
+                "title": "Ling 201",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:30:00"
+              },
+              {
+                "title": "Phonetics Lab Meeting",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "18:00:00",
+                "endTime": "19:00:00"
+              },
+              {
+                "title": "Sound Workshop",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:15:00",
+                "endTime": "15:15:00"
+              }
+            ],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N499M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N458",
+            "events": [
+              {
+                "title": "Ling 601",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "Ling 610",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "Ling 730",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "Ling 720",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "Language Acquisition Lab Meeting",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:00:00"
+              },
+              {
+                "title": "Congnitive Science meeting",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "18:00:00",
+                "endTime": "20:00:00"
+              },
+              {
+                "title": "LARC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:25:00"
+              },
+              {
+                "title": "Ling 791D",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:30:00"
+              }
+            ],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N462",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N4310",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431D",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431H",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431G",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431F",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N431E",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N432",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N424",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N421",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N421L",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N417",
+            "events": [
+              {
+                "title": "Ling 750",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "Ling 510",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "13:30:00"
+              }
+            ],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N499B",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499U",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N499N",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499Q",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499P",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499X",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S416",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N406",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499T",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S418",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S415",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "N401",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S414",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S423",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S423A",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499M",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S430",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S432",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S434",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S406",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499H",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S402",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499D",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S499E",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S452",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S454",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S462",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S460",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S456",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S458",
+            "events": [],
+            "attributes": ["common"]
+          },
+          {
+            "name": "S498",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N450",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N496",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S496",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N415",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N413",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "N411",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S490",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S411",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S403",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S401",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S412",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S426",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S428",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S448",
+            "events": [],
+            "attributes": ["utility"]
+          },
+          {
+            "name": "S446",
+            "events": [],
+            "attributes": ["utility"]
+          }
+        ],
+        "attributes": ["office", "classroom", "common", "restroom", "utility"]
+      }
+    ]
+  },
+  {
+    "id": "673fc8e7348c672f91ac1f1c",
+    "name": "Machmer Hall",
+    "address": "240 Hicks Way Machmer Hall, Amherst, MA 01003",
+    "location": {
+      "lat": 42.3918,
+      "lng": -72.5274
+    },
+    "img": "https://www.umass.edu/physicalplant/sites/default/files/IMG_6896.JPG",
+    "floors": [
+      {
+        "name": "Basement",
+        "rooms": [
+          {
+            "name": "E-10",
+            "events": [
+              {
+                "title": "POLISCI 111 01AA",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "POLISCI 111 01AA",
+                "start": "2024-10-15T09:05:00",
+                "end": "2024-10-15T09:55:00"
+              },
+              {
+                "title": "POLISCI 111 01AB",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "POLISCI 111 01AB",
+                "start": "2024-10-15T10:10:00",
+                "end": "2024-10-15T11:00:00"
+              },
+              {
+                "title": "POLISCI 111 01BC",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "POLISCI 111 01BC",
+                "start": "2024-10-15T12:20:00",
+                "end": "2024-10-15T13:10:00"
+              },
+              {
+                "title": "ANTHRO 205 01AA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "ANTHRO 205 01AB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "ANTHRO 205 01AC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "ANTHRO 205 01AD",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "ANTHRO 205 01AE",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "ANTHRO 205 01AF",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "SOCIOL 316 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "ANTHRO 415 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "LEGAL 393LG 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "ANTHRO 394EI 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "ANTHRO 394EI 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "ANTHRO 416 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "ECON 365 04",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "SOCIOL 340 01",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "18:30:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-11",
+            "events": [
+              {
+                "title": "LEGAL 257 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "LEGAL 257 01",
+                "start": "2024-10-15T09:05:00",
+                "end": "2024-10-15T09:55:00"
+              },
+              {
+                "title": "LEGAL 394JI 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "POLISCI 121 01AG",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "LEGAL 252 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "LEGAL 252 01",
+                "start": "2024-10-15T11:15:00",
+                "end": "2024-10-15T12:05:00"
+              },
+              {
+                "title": "POLISCI 343 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 273 01BA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "SPP 376 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "LEGAL 365 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "LEGAL 365 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "POLISCI 245 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "POLISCI 121 01AK",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "COMM 491S 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "LEGAL 394CI 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "LEGAL 394CI 01",
+                "start": "2024-10-15T16:00:00",
+                "end": "2024-10-15T17:15:00"
+              },
+              {
+                "title": "LEGAL 335 01",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "18:30:00",
+                "endTime": "20:30:00"
+              },
+              {
+                "title": "EXAM for POLISCI 245 01",
+                "start": "2024-12-18T15:30:00",
+                "end": "2024-12-18T17:30:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-15",
+            "events": [
+              {
+                "title": "LEGAL 358 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "SOCIOL 313 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "SOCIOL 313 01",
+                "start": "2024-10-15T11:15:00",
+                "end": "2024-10-15T12:05:00"
+              },
+              {
+                "title": "SOCIOL 244 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 364 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "POLISCI 364 01",
+                "start": "2024-10-15T12:20:00",
+                "end": "2024-10-15T13:10:00"
+              },
+              {
+                "title": "SOCIOL 271 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "SOCIOL 329 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "LEGAL 275 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "SOCIOL 329 01",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "SOCIOL 329 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "LEGAL 250 01BC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "LEGAL 391U 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "LEGAL 391U 01",
+                "start": "2024-10-15T16:00:00",
+                "end": "2024-10-15T17:15:00"
+              },
+              {
+                "title": "SPP 204 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "199G",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199F",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-08",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-06",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199H",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199E",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "112",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-09",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199L",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199C",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "111",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "109",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-18A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199D",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-07",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-07A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199K",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "199A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-16",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-14",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-12",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-15",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-13N",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-17",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "106",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "107",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "W-12",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "W-12A",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "W-14",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "W-16",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "W-17",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-09",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-11",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-18",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "100",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "101",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "102",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "103",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "104",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "105",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "W-10",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "108",
+            "events": [],
+            "attributes": ["support"]
+          },
+          {
+            "name": "110",
+            "events": [],
+            "attributes": ["support"]
+          },
+          {
+            "name": "110A",
+            "events": [],
+            "attributes": ["support"]
+          }
+        ],
+        "attributes": [
+          "office",
+          "support",
+          "laboratory",
+          "nonassignable",
+          "classroom"
+        ]
+      },
+      {
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "name": "299J",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299H",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299G",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299F",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-20B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-20C",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "219",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299C",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299D",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299E",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "200",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "216",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "220",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-19",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-19A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "299A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-21",
+            "events": [
+              {
+                "title": "POLISCI 390G 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:45:00"
+              },
+              {
+                "title": "LEGAL 250 01AG",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "LEGAL 450 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "LEGAL 250 01AJ",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "LABOR 204 01AB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "SOCIOL 204 01AB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "LEGAL 290V 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "FFYS 191POL22 01",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "LEGAL 250 01BA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "LEGAL 450 02",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "LEGAL 250 01BB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "LEGAL 390A 01",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "17:00:00"
+              },
+              {
+                "title": "LEGAL 390A 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T17:00:00"
+              },
+              {
+                "title": "LEGAL 394MI 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "LEGAL 250 01AK",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "LEGAL 352 01",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "18:30:00"
+              },
+              {
+                "title": "LEGAL 258 01",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "18:30:00"
+              },
+              {
+                "title": "LEGAL 432 01",
+                "daysOfWeek": [2],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "18:30:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-22",
+            "events": [
+              {
+                "title": "POLISCI 171 01AA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "SPP 499C 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "LEGAL 499C 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "POLISCI 171 01AB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "POLISCI 171 01AC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "POLISCI 377 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 171 01AD",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "POLISCI 171 01AE",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "POLISCI 171 01AF",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "ANTHRO 150H 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "ANTHRO 150H 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "POLISCI 393M 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "COMM 495A 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "COMM 495A 01",
+                "start": "2024-10-15T16:00:00",
+                "end": "2024-10-15T17:15:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-23",
+            "events": [
+              {
+                "title": "PSYCH 241 01LL",
+                "daysOfWeek": [2],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:45:00"
+              },
+              {
+                "title": "PSYCH 241 01LW",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:45:00"
+              },
+              {
+                "title": "POLISCI 273 01AG",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "Psy 330 Rev Sess",
+                "start": "2024-09-05T10:00:00",
+                "end": "2024-09-05T10:50:00"
+              },
+              {
+                "title": "PSYCH 240 01LL",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "PSYCH 240 01LL",
+                "start": "2024-10-15T10:10:00",
+                "end": "2024-10-15T11:00:00"
+              },
+              {
+                "title": "PSYCH 240 01LW",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "PSYCH 240 01LR",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "PSYCH 240 01LM",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "PSYCH 240 01LM",
+                "start": "2024-10-15T11:15:00",
+                "end": "2024-10-15T12:05:00"
+              },
+              {
+                "title": "PSYCH 240 01LS",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "PSYCH 240 01LX",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "PSYCH 241 01LM",
+                "daysOfWeek": [2],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "PSYCH 240 01LN",
+                "daysOfWeek": [1],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "PSYCH 240 01LN",
+                "start": "2024-10-15T12:20:00",
+                "end": "2024-10-15T13:10:00"
+              },
+              {
+                "title": "PSYCH 240 01LU",
+                "daysOfWeek": [3],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "PSYCH 240 01LZ",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-24",
+            "events": [
+              {
+                "title": "EXAM for ECON 345 01",
+                "start": "2024-12-17T08:00:00",
+                "end": "2024-12-17T10:00:00"
+              },
+              {
+                "title": "EXAM for ECON 343 01",
+                "start": "2024-12-17T08:00:00",
+                "end": "2024-12-17T10:00:00"
+              },
+              {
+                "title": "ECON 345 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:45:00"
+              },
+              {
+                "title": "POLISCI 111 01AG",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "ECON 343 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "POLISCI 111 01AJ",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "POLISCI 111 01AC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "ECON 338 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 111 01AD",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "EXAM for ECON 338 01",
+                "start": "2024-12-17T13:00:00",
+                "end": "2024-12-17T15:00:00"
+              },
+              {
+                "title": "EXAM for ECON 313 01",
+                "start": "2024-12-17T15:30:00",
+                "end": "2024-12-17T17:30:00"
+              },
+              {
+                "title": "ECON 337 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-25",
+            "events": [
+              {
+                "title": "EXAM for ANTHRO 364",
+                "start": "2024-12-12T08:00:00",
+                "end": "2024-12-12T10:00:00"
+              },
+              {
+                "title": "POLISCI 273 01AA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "ANTHRO 364",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "POLISCI 273 01AB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "POLISCI 273 01AC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "COMM 494LI",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 273 01AD",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "12:20:00",
+                "endTime": "13:10:00"
+              },
+              {
+                "title": "ECON 394FI",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "POLISCI 273 01AE",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "SOCIOL 384",
+                "start": "2024-09-09T14:30:00",
+                "end": "2024-09-09T15:45:00"
+              },
+              {
+                "title": "POLISCI 273 01AF",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "SOCIOL 341",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-26",
+            "events": [
+              {
+                "title": "FFYS 191COMM4",
+                "daysOfWeek": [4],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:20:00"
+              },
+              {
+                "title": "LRC ASC Pres",
+                "start": "2024-10-11T09:00:00",
+                "end": "2024-10-11T10:45:00"
+              },
+              {
+                "title": "ECON 336 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "SOCIOL 281",
+                "start": "2024-09-09T11:15:00",
+                "end": "2024-09-09T12:05:00"
+              },
+              {
+                "title": "ANTHRO 290STA 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "LRC ASC Pres",
+                "start": "2024-10-11T12:30:00",
+                "end": "2024-10-11T14:15:00"
+              },
+              {
+                "title": "POLISCI 391GP",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "COMM 290STA",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "COMM 394DI",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "COMM 290STA",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "COMM 390STA",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "DACSS 602",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "17:30:00",
+                "endTime": "18:45:00"
+              },
+              {
+                "title": "DACSS 601",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "17:30:00",
+                "endTime": "18:45:00"
+              },
+              {
+                "title": "ECON 204-01 MAKE-UP EXAM",
+                "start": "2024-10-23T19:00:00",
+                "end": "2024-10-23T21:00:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "W-27",
+            "events": [
+              {
+                "title": "EXAM for ECON 306 01",
+                "start": "2024-12-12T08:00:00",
+                "end": "2024-12-12T10:00:00"
+              },
+              {
+                "title": "POLISCI 305",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "08:30:00",
+                "endTime": "09:45:00"
+              },
+              {
+                "title": "SOCIOL 222",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "ECON 306 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "LEGAL 342 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "POLISCI 390P",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "POLISCI 377",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "POLISCI 359",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "POLISCI 270",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "17:30:00",
+                "endTime": "18:45:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "E-20",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-25",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-26",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-26C",
+            "events": [],
+            "attributes": ["laboratory"]
+          },
+          {
+            "name": "E-22",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-22A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-22B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-26A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-26B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27C",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27E",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27F",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27G",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "201",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "202",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "203",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "204",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "205",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "206",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "207A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "207B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "208",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "209",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "210",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "211",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "212",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "213",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "214",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "215",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "215A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "217",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "217A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "218",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "W-20",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-27D",
+            "events": [],
+            "attributes": ["general use facilities"]
+          }
+        ],
+        "attributes": [
+          "office",
+          "laboratory",
+          "nonassignable",
+          "classroom",
+          "general use facilities"
+        ]
+      },
+      {
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "name": "399G",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399F",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399E",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-39",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-39A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399H",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "300",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399D",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399J",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "319",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399C",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-38B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "W-38A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "399B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "E-33",
+            "events": [
+              {
+                "title": "EXAM for SOCIOL 320 01",
+                "start": "2024-12-12T08:00:00",
+                "end": "2024-12-12T10:00:00"
+              },
+              {
+                "title": "ECON 365 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "ECON 365 01",
+                "start": "2024-10-15T09:05:00",
+                "end": "2024-10-15T09:55:00"
+              },
+              {
+                "title": "SOCIOL 320 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "LABOR 204 01AA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "SOCIOL 204 01AA",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "ECON 365 02",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "ECON 365 02",
+                "start": "2024-10-15T11:15:00",
+                "end": "2024-10-15T12:05:00"
+              },
+              {
+                "title": "ECON 305 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "COMM 494KI 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "13:00:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "ECON 365 03",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "ECON 365 03",
+                "start": "2024-10-15T13:25:00",
+                "end": "2024-10-15T14:15:00"
+              },
+              {
+                "title": "POLISCI 394GI 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "POLISCI 394GI 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "POLISCI 273 01AJ",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "POLISCI 372 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "17:15:00"
+              },
+              {
+                "title": "POLISCI 372 01",
+                "start": "2024-10-15T16:00:00",
+                "end": "2024-10-15T17:15:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "E-35",
+            "events": [
+              {
+                "title": "EXAM for SOCIOL 224 01",
+                "start": "2024-12-12T08:00:00",
+                "end": "2024-12-12T10:00:00"
+              },
+              {
+                "title": "POLISCI 273 01BC",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "SOCIOL 224 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "SOCIOL 322 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "LEGAL 391GL 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "EXAM for POLISCI 356 01",
+                "start": "2024-12-18T13:00:00",
+                "end": "2024-12-18T15:00:00"
+              },
+              {
+                "title": "EXAM for POLISCI 656 01",
+                "start": "2024-12-18T13:00:00",
+                "end": "2024-12-18T15:00:00"
+              },
+              {
+                "title": "POLISCI 356 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "POLISCI 356 01",
+                "start": "2024-10-15T13:25:00",
+                "end": "2024-10-15T14:15:00"
+              },
+              {
+                "title": "POLISCI 656 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "13:25:00",
+                "endTime": "14:15:00"
+              },
+              {
+                "title": "POLISCI 656 01",
+                "start": "2024-10-15T13:25:00",
+                "end": "2024-10-15T14:15:00"
+              },
+              {
+                "title": "SOCIOL 248 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "SOCIOL 248 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "SOCIOL 346 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "ECON 103 01AG",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:20:00"
+              },
+              {
+                "title": "LABOR 204 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "16:50:00"
+              },
+              {
+                "title": "SOCIOL 204 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "16:00:00",
+                "endTime": "16:50:00"
+              },
+              {
+                "title": "FDSCI- Alt Pro Club",
+                "start": "2024-10-23T16:00:00",
+                "end": "2024-10-23T18:00:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "E-37",
+            "events": [
+              {
+                "title": "POLISCI 162 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "POLISCI 162 01",
+                "start": "2024-10-15T09:05:00",
+                "end": "2024-10-15T09:55:00"
+              },
+              {
+                "title": "POLISCI 111 01BB",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "09:05:00",
+                "endTime": "09:55:00"
+              },
+              {
+                "title": "COMM 225 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "10:00:00",
+                "endTime": "11:15:00"
+              },
+              {
+                "title": "COMM 372 01",
+                "daysOfWeek": [1, 3, 5],
+                "endRecur": "2024-12-20",
+                "startTime": "10:10:00",
+                "endTime": "11:00:00"
+              },
+              {
+                "title": "COMM 372 01",
+                "start": "2024-10-15T10:10:00",
+                "end": "2024-10-15T11:00:00"
+              },
+              {
+                "title": "POLISCI 121 01AJ",
+                "daysOfWeek": [5],
+                "endRecur": "2024-12-20",
+                "startTime": "11:15:00",
+                "endTime": "12:05:00"
+              },
+              {
+                "title": "COMM 310 01",
+                "daysOfWeek": [2, 4],
+                "endRecur": "2024-12-20",
+                "startTime": "11:30:00",
+                "endTime": "12:45:00"
+              },
+              {
+                "title": "ISSR workshop",
+                "start": "2024-10-02T11:30:00",
+                "end": "2024-10-02T14:15:00"
+              },
+              {
+                "title": "ANTHRO 215 01",
+                "daysOfWeek": [1, 3],
+                "endRecur": "2024-12-20",
+                "startTime": "14:30:00",
+                "endTime": "15:45:00"
+              },
+              {
+                "title": "ANTHRO 215 01",
+                "start": "2024-10-15T14:30:00",
+                "end": "2024-10-15T15:45:00"
+              },
+              {
+                "title": "LBR Legal Defense Strat for Stu",
+                "start": "2024-10-01T15:00:00",
+                "end": "2024-10-01T17:30:00"
+              },
+              {
+                "title": "EXAM for ANTHRO 215 01",
+                "start": "2024-12-17T15:30:00",
+                "end": "2024-12-17T17:30:00"
+              }
+            ],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "E-30",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-30E",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-31",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-32",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-34",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "E-36",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "301",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "301A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "302",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "303",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "304",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "305",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "307A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "307B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "308",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "309",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "310",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "311",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "312",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "313A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "313B",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "314",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "315",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "317",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "317A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "W-37B",
+            "events": [],
+            "attributes": ["general use facilities"]
+          },
+          {
+            "name": "306",
+            "events": [],
+            "attributes": ["general use facilities"]
+          },
+          {
+            "name": "321",
+            "events": [],
+            "attributes": ["support"]
+          },
+          {
+            "name": "324",
+            "events": [],
+            "attributes": ["support"]
+          },
+          {
+            "name": "W-31E",
+            "events": [],
+            "attributes": ["unclassified facilities"]
+          }
+        ],
+        "attributes": [
+          "office",
+          "support",
+          "nonassignable",
+          "classroom",
+          "general use facilities",
+          "unclassified facilities"
+        ]
+      },
+      {
+        "name": "Fourth Floor",
+        "rooms": [
+          {
+            "name": "400",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "416",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "418",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "419",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "499A",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "499B",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "499C",
+            "events": [],
+            "attributes": ["nonassignable"]
+          },
+          {
+            "name": "413",
+            "events": [],
+            "attributes": ["classroom"]
+          },
+          {
+            "name": "401",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "401A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "402",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "403",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "404",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "405",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "406",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "407",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "408",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "409",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "410",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "411",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "412",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "414",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "415",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "417",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "417A",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "420",
+            "events": [],
+            "attributes": ["office"]
+          },
+          {
+            "name": "421",
+            "events": [],
+            "attributes": ["office"]
+          }
+        ],
+        "attributes": ["office", "nonassignable", "classroom"]
+      }
+    ]
+  }
+]

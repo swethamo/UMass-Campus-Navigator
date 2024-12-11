@@ -1,0 +1,98 @@
+.navbar {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-left {
+  height: 72px;
+  margin-left: 24px;
+
+  display: flex;
+
+  align-items: center;
+}
+
+.navbar-middle {
+  width: 100%;
+  margin: 0px 24px !important;
+
+  display: flex;
+
+  justify-content: center;
+
+  margin: auto 0px;
+}
+
+.navbar-right {
+  display: flex;
+  margin-right: 24px;
+}
+
+.navbar-button {
+  cursor: pointer;
+}
+
+.navbar-search {
+  max-width: 520px;
+}
+
+.navbar-icon-button {
+  margin-left: 4px !important;
+}
+
+.navbar-icon-chip {
+  display: flex;
+  align-items: center;
+  background-color: rgba(220, 38, 38, 0.35);
+  border-radius: 20px;
+  padding-right: 16px;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  scale: 0.9;
+}
+
+.avatar-img {
+  width: 40px !important;
+  height: 40px !important;
+
+  margin: 16px 8px;
+
+  background-color: #dc2626 !important;
+}
+
+.avatar-text {
+  display: flex;
+  flex-direction: column;
+
+  height: 72px;
+
+  justify-content: center;
+}
+
+.avatar-dropdown {
+  margin-right: 24px;
+}
+
+.avatar-menu {
+  width: 700px !important;
+}
+
+.avatar-menu-item {
+  height: 40px;
+}
+
+.avatar-menu-text {
+  padding-left: 10px;
+}
+
+.login-button {
+  width: 200px;
+
+  border-radius: 20px !important;
+}

@@ -1,0 +1,44 @@
+.chat-page {
+  width: 100%;
+  height: calc(100dvh - 112px);
+  overflow-y: auto;
+  margin: 20px 0px;
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 20%;
+}
+
+.user-container {
+  background-color: #f0f0f0;
+  padding: 0px 18px;
+  margin: 6px !important;
+  border-radius: 15px;
+  max-width: 60%;
+  align-self: flex-end;
+}
+
+.bot-container {
+  background-color: #e7d1d1;
+  padding: 0px 18px;
+  margin: 6px !important;
+  border-radius: 15px;
+  max-width: 60%;
+  align-self: flex-start;
+}
+
+@keyframes fadeInOut {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.loading-animation {
+  animation: fadeInOut 2s infinite;
+}

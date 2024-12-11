@@ -1,0 +1,86 @@
+.building-content {
+  width: calc(100% - 96px);
+  height: calc(100% - 88px);
+
+  margin: 0px 48px 16px 48px;
+  display: flex;
+}
+
+.building-main-content {
+  width: calc(65% - 12px);
+  height: 100%;
+
+  margin-right: 24px;
+}
+
+.building-side-content {
+  width: calc(35% - 12px);
+  height: calc(100% - 18px);
+}
+
+.building-info {
+  height: calc(65% - 18px);
+
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.building-rooms {
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.building-floor {
+  margin: 10px 0;
+}
+
+.attribute-icons {
+  display: flex;
+  align-items: center;
+}
+
+.attribute-icon {
+  margin-left: 10px;
+}
+
+.building-floor .MuiAccordionSummary-root {
+  font-size: 18px;
+  background-color: #dee2e6;
+  border-bottom: 2px solid #ced4da;
+}
+
+.building-room {
+  display: flex;
+  background-color: #ffffff;
+  border-bottom: 1px solid #adb5bd;
+  font-size: 16px;
+}
+
+.building-room-selected {
+  display: flex;
+  background-color: #e3e3e3;
+  border-bottom: 1px solid #adb5bd;
+  font-size: 16px;
+}
+
+.building-room:last-child {
+  border-bottom: none;
+}
+
+.building-room:hover {
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.building-room-calendar {
+  max-height: calc(100% - 40px);
+  overflow-y: hidden;
+}
+
+.building-img {
+  width: 100%;
+  height: calc(35% - 20px);
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
