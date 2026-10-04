@@ -1,44 +1,44 @@
-# UMass-Campus-Navigator
+# UMass Campus Navigator
 
-**Objective**
+A full-stack web application that helps users explore UMass Amherst buildings, get directions, view room schedules, and ask questions about campus facilities.
 
-A web application that provides students with real-time navigation through the UMass Amherst campus, details on upcoming events, and comprehensive information about its buildings. 
+## Features
 
-**Features**
-- User Authentication and Authorization: Students and faculty can login using their university email ID
-- Navigation: Interactive maps help us navigate through campus
-- Building information : Location, floors and room information
-- Pin buildings: Pin or save frequently visited buildings for convenience
-- Building Layout: Each building has floorplans with labels attached to each room, indicating the type (Classroom, Laboratory, Office etc)
-- Events scehdule: Events / classes in a selected room are displayed in a Calendar
-- Chatbot: Chatbot answers queries about the given buildings. (Example - What class happens on Tuesday afternoons at Machmer Hall)
+- **Building search:** Search buildings by name and browse paginated results.
+- **Campus directions:** Get walking, cycling, driving, or transit directions from your current location using Google Maps.
+- **Building details:** Explore floors, rooms, and room types such as classrooms, laboratories, and offices.
+- **Room schedules:** View stored classes and events in a calendar.
+- **Saved buildings:** Sign in with Google and save frequently visited buildings.
+- **AI assistant:** Ask questions about buildings, rooms, and scheduled events.
 
+## How It Works
 
-![image](https://github.com/user-attachments/assets/db76eba0-2432-4c99-86c8-e1e7d0cff28e)
+1. The **React frontend** displays building information, maps, calendars, and chat responses.
+2. **Redux Toolkit** manages user, building, and chat state.
+3. The frontend calls **Express REST APIs** to search buildings, retrieve details, and update saved buildings.
+4. **MongoDB** stores user profiles and building documents containing floors, rooms, and events.
+5. **Google Maps** uses browser geolocation to generate directions to a selected building.
+6. For chatbot requests, the backend retrieves building data from MongoDB and includes it with the user's question in a prompt to **OpenAI GPT-4o**.
 
-![image](https://github.com/user-attachments/assets/55ead428-b7bd-4b41-a8bc-56163601e0da)
+Schedules and chatbot answers use the data stored in the application.
 
-![image](https://github.com/user-attachments/assets/605fe8fc-01b7-4c73-aeb9-449c3bb1507b)
+## Tech Stack
 
-![image](https://github.com/user-attachments/assets/8cda7206-e3ed-4760-8f6c-278b4f10e5b3)
+React · TypeScript · Redux Toolkit · Material UI · Node.js · Express · MongoDB · Google Maps API · OpenAI API · FullCalendar · Vite
 
-![image](https://github.com/user-attachments/assets/7c63aec5-de41-4281-a11e-d26761bc8c94)
+## Project Structure
 
-![image](https://github.com/user-attachments/assets/d6161725-64f9-4591-97a0-1f968f4738cf)
+- **`frontend/`** — User interface, navigation, maps, calendars, and state management.
+- **`backend/`** — REST APIs, database connection, and AI assistant integration.
+- **`models/`** — Shared TypeScript data models.
+- **`database/`** — JSON exports of building and user data.
 
-![image](https://github.com/user-attachments/assets/688fab96-61b4-4bad-b5ea-c5b5af86af59)
+## Running Locally
 
+1. Install dependencies with `npm install` in both `frontend/` and `backend/`.
+2. Configure MongoDB and OpenAI credentials in `backend/environment.ts`, and Google OAuth and Maps settings in `frontend/src/environment.ts`.
+3. Import the provided JSON data into the `campus_navigator` MongoDB database.
+4. Run `npm start` in each directory.
 
-
-
-
-
-
-
-
-
-**Tech Stack**
-- React
-- TypeScript
-- Express JS
-- MongoDB
+Frontend: `http://localhost:3000`  
+Backend: `http://localhost:8000`
